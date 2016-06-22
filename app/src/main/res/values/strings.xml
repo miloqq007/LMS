@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LMS</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="first_fra_text">主页</string>
+    <string name="second_fra_text"></string>
+    <string name="third_fra_text"></string>
+    <string name="forth_fra_text"></string>
+    <string name="address">http://blog.csdn.net/canyujingfeng</string>
+    <string name="user_id">AC_North</string>
+</resources>
